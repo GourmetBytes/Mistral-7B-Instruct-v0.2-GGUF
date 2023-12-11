@@ -39,3 +39,4 @@ mistral-7b-instruct-v0.2.Q3_K_M.gguf filter=lfs diff=lfs merge=lfs -text
 mistral-7b-instruct-v0.2.Q3_K_L.gguf filter=lfs diff=lfs merge=lfs -text
 mistral-7b-instruct-v0.2.Q4_0.gguf filter=lfs diff=lfs merge=lfs -text
 mistral-7b-instruct-v0.2.Q4_K_S.gguf filter=lfs diff=lfs merge=lfs -text
+mistral-7b-instruct-v0.2.Q4_K_M.gguf filter=lfs diff=lfs merge=lfs -text
